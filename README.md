@@ -1,6 +1,5 @@
 # Web Development Learning Template
 
-![Project Screenshot](./screenshot.jpg)
 
 A modern, responsive template for learning web development fundamentals with interactive components and theme customization features.
 
